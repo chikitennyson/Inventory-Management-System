@@ -2,7 +2,7 @@
 Managing business sales and warehousing departments
 *************************************************************
  This project is a Inventory management systyem that has three independent sections (Purchase, Sale and Warehouse system).
-You can Test it in 
+You can Test it in  http://localhost/stock/home/home.php
 
 ```
  Notic: You must write your connection string in "DependencyInstaller.sc" file.
